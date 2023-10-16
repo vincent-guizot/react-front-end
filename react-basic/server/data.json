@@ -13,27 +13,6 @@
       "price": 150000,
       "stock": 5,
       "type": "laptop"
-    },
-    {
-      "id": 3,
-      "name": "Acer Predator",
-      "price": 150000,
-      "stock": 5,
-      "type": "laptop"
-    },
-    {
-      "name": "MacBook M1",
-      "price": 10000000,
-      "stock": 10,
-      "type": "mac",
-      "id": 4
-    },
-    {
-      "name": "MacBook M2",
-      "price": 10000000,
-      "stock": 10,
-      "type": "mac",
-      "id": 5
     }
   ]
 }
